@@ -15,7 +15,7 @@ Code organization
 Results
 =======
 <img src="img/map1.png" width="300">  <img src="img/map2.img" width="300"> 
-Map1 Map2
+
 <img src="img/map3.png" width="300">  <img src="img/map4.img" width="300"> 
 
 Datasets
