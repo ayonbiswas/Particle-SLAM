@@ -1,5 +1,4 @@
-
-# ECE276A Project 2 : Particle SLAM
+# Particle SLAM
 
 Description
 ===========
@@ -12,6 +11,12 @@ Code organization
 *load_data.py -- contains helper functions to load lidar data and robot's odometry and pose data.
  
 *utils.py -- contains helper functions for computing map correlation, coordinate transformation from lidar to world frame, computing unoccupied cells and updating log-odds.
+
+Results
+=======
+<img src="img/map1.png" width="300">  <img src="img/map2.img" width="300"> 
+Map1 Map2
+<img src="img/map3.png" width="300">  <img src="img/map4.img" width="300"> 
 
 Datasets
 ========
